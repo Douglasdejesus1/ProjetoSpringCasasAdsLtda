@@ -1,0 +1,5 @@
+package com.casasadsltda.projeto.entities;
+
+public class User {
+
+}

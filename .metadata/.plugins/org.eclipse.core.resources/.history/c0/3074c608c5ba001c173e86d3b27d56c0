@@ -1,0 +1,5 @@
+package com.casasadsltda.projeto.resources;
+
+public class UserResource {
+
+}
